@@ -19,7 +19,7 @@ Anyone who would like to help contribute to this GitHub whether it be with writi
   Once complete open Cura and enjoy!<br/>
   <br/>
   If you would rather use the Cura profile loader built for this project both Mac and Windows can be downloaded by clicking <a href="https://github.com/phnxdrgn536/FLSun-v400/raw/main/CuraProfileLoader-0.0.4.zip">HERE<a/>. <br/>
-  (NOTE) Visual studio priject and source code for this loader is located in the "loader" folder of this repo.<br/>
+  (NOTE) Visual studio project and source code for this loader is located in the "loader" folder of this repo.<br/>
   Once downloaded and extracted run CuraProfileLoder. A terminal program will start.<br/>
   Choose either "FLSUN" if you have the stock firmware that was shipped with the printer provided by FLSun or <br/>
   "Official" if you have used <a href="https://github.com/Guilouz/Klipper-Flsun-Speeder-Pad">this guide<a/> to reflash your firmware to an official build of Klipper<br/>
